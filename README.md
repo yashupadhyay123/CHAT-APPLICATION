@@ -40,3 +40,7 @@ Live classrooms and doubt-solving portals
 Community messaging groups
 Real-time notifications
 
+# OUTPUT : 
+
+<img width="2326" height="1205" alt="Image" src="https://github.com/user-attachments/assets/e42404a4-3154-4341-8e87-1b0962a6b871" />
+
